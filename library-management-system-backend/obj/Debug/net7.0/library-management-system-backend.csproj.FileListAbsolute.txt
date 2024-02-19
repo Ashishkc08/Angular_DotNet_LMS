@@ -1,0 +1,304 @@
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\appsettings.json
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\library-management-system-backend.exe
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\library-management-system-backend.deps.json
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\library-management-system-backend.runtimeconfig.json
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\library-management-system-backend.dll
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\library-management-system-backend.pdb
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\obj\Debug\net7.0\library-management-system-backend.csproj.AssemblyReference.cache
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\obj\Debug\net7.0\library-management-system-backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\obj\Debug\net7.0\library-management-system-backend.AssemblyInfoInputs.cache
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\obj\Debug\net7.0\library-management-system-backend.AssemblyInfo.cs
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\obj\Debug\net7.0\library-management-system-backend.csproj.CoreCompileInputs.cache
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\obj\Debug\net7.0\library-management-system-backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\obj\Debug\net7.0\library-management-system-backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\obj\Debug\net7.0\staticwebassets\msbuild.library-management-system-backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\obj\Debug\net7.0\staticwebassets\msbuild.build.library-management-system-backend.props
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.library-management-system-backend.props
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.library-management-system-backend.props
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\obj\Debug\net7.0\scopedcss\bundle\library-management-system-backend.styles.css
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\obj\Debug\net7.0\library-management-system-backend.csproj.CopyComplete
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\obj\Debug\net7.0\library-management-system-backend.dll
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\obj\Debug\net7.0\refint\library-management-system-backend.dll
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\obj\Debug\net7.0\library-management-system-backend.pdb
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\obj\Debug\net7.0\library-management-system-backend.genruntimeconfig.cache
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\obj\Debug\net7.0\ref\library-management-system-backend.dll
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\Humanizer.dll
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\ashishkaramchandani\OneDrive - Nagarro\Desktop\My Projects\Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\bin\Debug\net7.0\appsettings.json
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\bin\Debug\net7.0\library-management-system-backend.exe
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\bin\Debug\net7.0\library-management-system-backend.deps.json
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\bin\Debug\net7.0\library-management-system-backend.runtimeconfig.json
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\bin\Debug\net7.0\library-management-system-backend.dll
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\bin\Debug\net7.0\library-management-system-backend.pdb
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\bin\Debug\net7.0\Humanizer.dll
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\obj\Debug\net7.0\library-management-system-backend.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\obj\Debug\net7.0\library-management-system-backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\obj\Debug\net7.0\library-management-system-backend.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\obj\Debug\net7.0\library-management-system-backend.AssemblyInfo.cs
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\obj\Debug\net7.0\library-management-system-backend.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\obj\Debug\net7.0\library-management-system-backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\obj\Debug\net7.0\library-management-system-backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\obj\Debug\net7.0\staticwebassets\msbuild.library-management-system-backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\obj\Debug\net7.0\staticwebassets\msbuild.build.library-management-system-backend.props
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.library-management-system-backend.props
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.library-management-system-backend.props
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\obj\Debug\net7.0\scopedcss\bundle\library-management-system-backend.styles.css
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\obj\Debug\net7.0\library-management-system-backend.csproj.CopyComplete
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\obj\Debug\net7.0\library-management-system-backend.dll
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\obj\Debug\net7.0\refint\library-management-system-backend.dll
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\obj\Debug\net7.0\library-management-system-backend.pdb
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\obj\Debug\net7.0\library-management-system-backend.genruntimeconfig.cache
+C:\Users\HP\Desktop\library-management-system\library-management-system-backend\obj\Debug\net7.0\ref\library-management-system-backend.dll
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\bin\Debug\net7.0\appsettings.json
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\bin\Debug\net7.0\library-management-system-backend.exe
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\bin\Debug\net7.0\library-management-system-backend.deps.json
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\bin\Debug\net7.0\library-management-system-backend.runtimeconfig.json
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\bin\Debug\net7.0\library-management-system-backend.dll
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\bin\Debug\net7.0\library-management-system-backend.pdb
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\bin\Debug\net7.0\Humanizer.dll
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\obj\Debug\net7.0\library-management-system-backend.csproj.AssemblyReference.cache
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\obj\Debug\net7.0\library-management-system-backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\obj\Debug\net7.0\library-management-system-backend.AssemblyInfoInputs.cache
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\obj\Debug\net7.0\library-management-system-backend.AssemblyInfo.cs
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\obj\Debug\net7.0\library-management-system-backend.csproj.CoreCompileInputs.cache
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\obj\Debug\net7.0\library-management-system-backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\obj\Debug\net7.0\library-management-system-backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\obj\Debug\net7.0\staticwebassets\msbuild.library-management-system-backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\obj\Debug\net7.0\staticwebassets\msbuild.build.library-management-system-backend.props
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.library-management-system-backend.props
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.library-management-system-backend.props
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\obj\Debug\net7.0\scopedcss\bundle\library-management-system-backend.styles.css
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\obj\Debug\net7.0\library-management-system-backend.csproj.CopyComplete
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\obj\Debug\net7.0\library-management-system-backend.dll
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\obj\Debug\net7.0\refint\library-management-system-backend.dll
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\obj\Debug\net7.0\library-management-system-backend.pdb
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\obj\Debug\net7.0\library-management-system-backend.genruntimeconfig.cache
+C:\Users\ashishkaramchandani\Downloads\library-management-system-backend\obj\Debug\net7.0\ref\library-management-system-backend.dll
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\appsettings.json
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\library-management-system-backend.exe
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\library-management-system-backend.deps.json
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\library-management-system-backend.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\library-management-system-backend.dll
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\library-management-system-backend.pdb
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\Humanizer.dll
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\obj\Debug\net7.0\library-management-system-backend.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\obj\Debug\net7.0\library-management-system-backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\obj\Debug\net7.0\library-management-system-backend.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\obj\Debug\net7.0\library-management-system-backend.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\obj\Debug\net7.0\library-management-system-backend.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\obj\Debug\net7.0\library-management-system-backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\obj\Debug\net7.0\library-management-system-backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\obj\Debug\net7.0\staticwebassets\msbuild.library-management-system-backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\obj\Debug\net7.0\staticwebassets\msbuild.build.library-management-system-backend.props
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.library-management-system-backend.props
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.library-management-system-backend.props
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\obj\Debug\net7.0\scopedcss\bundle\library-management-system-backend.styles.css
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\obj\Debug\net7.0\library-management-system-backend.csproj.CopyComplete
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\obj\Debug\net7.0\library-management-system-backend.dll
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\obj\Debug\net7.0\refint\library-management-system-backend.dll
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\obj\Debug\net7.0\library-management-system-backend.pdb
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\obj\Debug\net7.0\library-management-system-backend.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\Project\OneDrive_3_19-2-2024\Ashish Karamchandani_Batch 01-Mar-23 Mini Assignment 2\library-management-system-backend\obj\Debug\net7.0\ref\library-management-system-backend.dll

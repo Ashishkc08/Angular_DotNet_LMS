@@ -1,0 +1,46 @@
+<div *ngIf="showTokenErrorMessage" class="alert alert-danger" role="alert">
+  You cannot borrow a book. Not enough tokens. Please Lend a book to earn it.
+</div>
+<div class="jumbotron text-center">
+  <div *ngIf="!isLoggedIn()">
+    <h1 class="display-4">Welcome to the Library</h1>
+  </div>
+  <div *ngIf="isLoggedIn()">
+    <h1 class="display-4">Welcome to the Library, {{ username }}</h1>
+  </div>
+  <p class="lead">Explore the world of books and knowledge.</p>
+  <hr class="my-4">
+  <p class="quotes">
+    "A room without books is like a body without a soul." - Marcus Tullius Cicero<br>
+    "You can find magic wherever you look. Sit back and relax, all you need is a book." - Dr. Seuss<br>
+    "A book is a dream that you hold in your hand." - Neil Gaiman
+  </p>
+  <div>
+    <a class="btn btn-primary btn-lg" routerLink="/signup" role="button" *ngIf="!isLoggedIn()">Sign Up</a>
+  </div>
+</div>
+
+<div class="container">
+  <h2 class="mt-4 mb-4">Featured Books</h2>
+  <div class="row">
+    <div class="col-md-4" *ngFor="let book of books">
+      <div class="card mb-4">
+
+        <div class="card-body">
+          <h5 class="card-title">{{ book.name }}</h5>
+
+          <p class="card-text"><strong>Author:</strong> {{ book.author }}</p>
+
+
+          <ng-container *ngIf="book.isBookAvailable; else notAvailableText">
+            <button class="btn btn-primary" (click)="borrowBook(book.bookId)" [disabled]="!isLoggedIn()">Borrow Book</button>
+          </ng-container>
+          <ng-template #notAvailableText>
+            <p class="card-text text-danger"><strong>Not Available</strong></p>
+          </ng-template>
+          <a [routerLink]="['/books', book.bookId]" class="btn btn-primary">View Details</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

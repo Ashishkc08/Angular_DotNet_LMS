@@ -1,0 +1,18 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.css";
+/* Set dark theme for the entire application */
+body {
+  background-color: #222; /* Set the background color to a dark shade */
+  color: #fff; /* Set text color to white */
+}
+
+/* Override Bootstrap styles for dark theme */
+.navbar-dark .navbar-nav .nav-link {
+  color: #fff; /* Set the text color for navbar links */
+}
+
+.navbar-dark .navbar-toggler-icon {
+  background-color: #fff; /* Set the color of the navbar toggler icon */
+}
+
+/* Add any additional styling for dark theme as needed */

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5h6gGGMTvy0cW3ZTT317byjLvR3IaLsCXueB4c1VKr8=",
+  "Source": "library-management-system-backend",
+  "BasePath": "_content/library-management-system-backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

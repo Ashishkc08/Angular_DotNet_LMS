@@ -1,0 +1,9 @@
+.container {
+  max-width: 400px;
+  margin: auto;
+  margin-top: 50px;
+}
+
+.form-group button {
+  margin-top: 10px;
+}

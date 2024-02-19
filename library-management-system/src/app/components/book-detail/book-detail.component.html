@@ -1,0 +1,11 @@
+<div *ngIf="book">
+  <h2>{{ book.name }}</h2>
+  <p><strong>Author:</strong> {{ book.author }}</p>
+  <p><strong>Genre:</strong> {{ book.genre }}</p>
+  <p><strong>Rating:</strong> {{ book.rating }} <span class="star-rating" [innerHTML]="getStarRating()"></span></p>
+  <p><strong>Description:</strong> {{ book.description }}</p>
+  <p><strong>Lended By:</strong> {{ book.lentByUserId }}</p>
+  <p><strong>Availability:</strong> {{ book.isBookAvailable ? 'Available' : 'Not Available' }}</p>
+
+  <a routerLink="/books" class="btn btn-primary">Back to Books</a>
+</div>
